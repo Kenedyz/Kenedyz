@@ -1,10 +1,10 @@
-- 👋 Hi, Its me Kenedy
-- 👀 I’m interested in different languages include programation
-- 🌱 I’m currently learning Python,Java,Php
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me in my email kenedygamesbr2007@gmail.com
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...im currently learning japanese peharps im from brazil
+- 👋 Oi, Me chamo Kenedy
+- 👀 Sou interessado por diferentes tipos de  linguagem incluindo a programação
+- 🌱 Eu Estou Atualmente Aprendendo Python,Java,Php e etc
+- 💞️ Estou procurando projetos em que possa colaborar e aperfeiçoar meu conhecimento
+- 📫 Caso Se Interessem Em meu Trabalho me procure em meu email kenedygamesbr2007@gmail.com
+- 😄 Pronomes: ...ele/dele
+- ⚡ Curiosidade: ...Estou aprendendo Japones e Ingles Apesar de Ser do Brasil
 
 <!---
 Kenedyz/Kenedyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
